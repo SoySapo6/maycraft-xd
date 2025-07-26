@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "82b78ef4-b110-31ed-b224-842ad4bcab3f",
+    "name": "Ado926",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "00000000-0000-0000-0000-000000000000",
+    "name": "SoyMaycol",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  },
+  {
+    "uuid": "2d4e3509-745b-3678-b262-7116b5a33fe1",
+    "name": "SoyMaycol",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
